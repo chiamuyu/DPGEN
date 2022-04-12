@@ -1,2 +1,1 @@
-# DPGEN
-DPGEN published in IEEE/CVF CVPR 2022
+# DPGEN-SIMPLE
